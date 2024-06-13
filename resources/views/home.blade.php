@@ -936,9 +936,8 @@
                         <a href="#"><img width="210" src="images/logo.png" alt="#" /></a>
                       </div>
                       <div class="information_f">
-                        <p><strong>ADDRESS:</strong> 28 White tower, Street Name New York City, USA</p>
-                        <p><strong>TELEPHONE:</strong> +91 987 654 3210</p>
-                        <p><strong>EMAIL:</strong> yourmain@gmail.com</p>
+                        <p><strong>ALAMAT :</strong> Kp. Perumahan</p>
+
                       </div>
                    </div>
                </div>
@@ -948,44 +947,28 @@
                      <div class="row">
                         <div class="col-md-6">
                      <div class="widget_menu">
-                        <h3>Menu</h3>
+                        <h3>No Tlp</h3>
                         <ul>
-                           <li><a href="#">Home</a></li>
-                           <li><a href="#">About</a></li>
-                           <li><a href="#">Services</a></li>
-                           <li><a href="#">Testimonial</a></li>
-                           <li><a href="#">Blog</a></li>
-                           <li><a href="#">Contact</a></li>
+                           <p> 085724687424</p>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6">
                      <div class="widget_menu">
-                        <h3>Account</h3>
+                        <h3>Email</h3>
                         <ul>
-                           <li><a href="#">Account</a></li>
-                           <li><a href="#">Checkout</a></li>
-                           <li><a href="#">Login</a></li>
-                           <li><a href="#">Register</a></li>
-                           <li><a href="#">Shopping</a></li>
-                           <li><a href="#">Widget</a></li>
+                           <p> ir.indra1999@gmail.com</p>
                         </ul>
                      </div>
                   </div>
                      </div>
-                  </div>
+                  </div>     
                   <div class="col-md-5">
                      <div class="widget_menu">
-                        <h3>Newsletter</h3>
-                        <div class="information_f">
-                          <p>Subscribe by our newsletter and get update protidin.</p>
-                        </div>
-                        <div class="form_sub">
-                           <form>
-                              <fieldset>
-                                 <div class="field">
-                                    <input type="email" placeholder="Enter Your Mail" name="email" />
-                                    <input type="submit" value="Subscribe" />
+                        <h3>SOSIAL MEDIA</h3>
+                                  <p>Facebook : Indra Rudiansyah</p>
+                                  <p>Instagram : @indra_rudiansyah14</p>
+                                  <p>Youtube : Indra Official</p>
                                  </div>
                               </fieldset>
                            </form>
@@ -999,9 +982,7 @@
       </footer>
       <!-- footer end -->
       <div class="cpy_">
-         <p class="mx-auto">© 2021 All Rights Reserved By <a href="https://html.design/">Free Html Templates</a><br>
-
-            Distributed By <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
+         <p class="mx-auto">© 2024 All Rights Reserved By <a>Ir.Indra Rudiansyah</a><br>
 
          </p>
       </div>
